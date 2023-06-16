@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #092072;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+header h1{
+    color: #4071ed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+h1{
+    margin-bottom: 20px;
+}
+nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #214bb68f;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+}
+body{
+    background-color: #092072;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+main{
+    margin: 10px;
+}
+.ia{
+    background-color: #1d50c8a3;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0px 400px 30px 400px;
+}
+.ia1{
+    background-color: #1d50c8a3;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0px 400px 30px 400px;
+}
+.ia2{
+    background-color: #1d50c8a3;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0px 400px 30px 400px;
+}
+.ia img{
+    padding-bottom: 20px;
+}
+.ia1 img{
+    padding-bottom: 20px;
+}
+.ia2 img{
+    padding-bottom: 20px;
+}
+.texto{
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #6999dd;
+}
+section{
+    background-color: #213c7a;
+}
+section h1{
+    font-size: 18px;
+}
+section a{
+    font-family: 'Open Sans', sans-serif;
+}
+.servicos-contatos .botao{
+    padding: 50px;
+    padding-top: 10px;
+    text-align: center;
+}
+.servicos-contatos{
+    padding-top: 50px;
+    background-color: #0e3db38f;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.botao a{ 
+    font-size: 15px;
+    background-color: #2d98b8;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 12px 0px 12px 0px;
+    display: block;
+    max-width: 200px;
+}
+footer{
+    padding: 30px;
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+spam{
+    color: white;
+}
+.nossos-servicos{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
+.texto-menu1{
+    color: rgb(90, 134, 255);
+    padding: 2px 0px 20px 0px;
+    font-size: 18px;
+}
+.texto-menu2{
+    color: rgb(90, 134, 255);
+    padding: 22px 0px 20px 0px;
+    font-size: 18px;
+}
+.menu1{
+    font-size: 14px;
+    text-align: center;
+}
+.menu2{
+    padding: 15px 0px 40px 0px;
+    font-size: 14px;
+    text-align: center;
+}
+.menu-{
+    text-align: justify;
+    margin: 0px 0px 0px 550px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+.duvidas{
+    border-radius: 10px;
+    margin: 20px 500px;
+    padding: 25px 30px 25px 30px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #163e9aa3;
+    box-shadow: 0px 0px 1px 2px #1f52c9;
+}
+.fone{
+    color: #3384ff;
+    padding-bottom: 7px;
+    font-size: 23px;
+}
+.horario{
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+.email{
+    padding: 30px;
+}
+.email h3{
+    color: #3384ff;
+    font-size: 25px;
+}
+.email h4{
+    font-size: 9px;
+    padding-top: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
